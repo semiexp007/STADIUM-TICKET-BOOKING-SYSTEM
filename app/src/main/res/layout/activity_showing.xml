@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pic"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".showing">
+
+    <LinearLayout
+        android:gravity="center"
+        android:background="#6BC8C8C8"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+        <Button
+
+            android:layout_marginRight="100dp"
+            android:id="@+id/butnr1"
+            android:text="Vip"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+        </Button>
+        <Button
+            android:id="@+id/butnr2"
+            android:text="GEneral"
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+        </Button>
+
+    </LinearLayout>
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bar"
+
+        >
+
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/toolbar"
+            android:background="?android:attr/windowBackground">
+            <androidx.appcompat.widget.AppCompatAutoCompleteTextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/search_bar"
+                android:hint="Search your ticket here"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                >
+
+            </androidx.appcompat.widget.AppCompatAutoCompleteTextView>
+
+        </androidx.appcompat.widget.Toolbar>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_gravity="center"
+        android:id="@+id/r1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/showtickets">
+
+    </androidx.recyclerview.widget.RecyclerView>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_gravity="center"
+        android:id="@+id/r2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/showtickets">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</LinearLayout>

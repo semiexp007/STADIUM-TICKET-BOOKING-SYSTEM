@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14040612012",
+    "project_id": "datingtype",
+    "storage_bucket": "datingtype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14040612012:android:8ad9fa79e2afa4fef17309",
+        "android_client_info": {
+          "package_name": "com.akmadheshiya.qui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14040612012-2ngobt67u7t6bmedou2ri6n8tfbj90lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCESHGjRtuf27dEOj9JSrQQ37IWEYjP6rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14040612012-2ngobt67u7t6bmedou2ri6n8tfbj90lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
