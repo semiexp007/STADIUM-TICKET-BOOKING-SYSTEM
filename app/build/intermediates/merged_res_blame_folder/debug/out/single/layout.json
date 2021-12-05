@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\qui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_registration.xml",
+        "source": "D:\\qui\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "D:\\qui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\showtickets.xml",
+        "source": "D:\\qui\\app\\src\\main\\res\\layout\\showtickets.xml"
+    },
+    {
+        "merged": "D:\\qui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_showing.xml",
+        "source": "D:\\qui\\app\\src\\main\\res\\layout\\activity_showing.xml"
+    },
+    {
+        "merged": "D:\\qui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\qui\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\qui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_uid.xml",
+        "source": "D:\\qui\\app\\src\\main\\res\\layout\\activity_uid.xml"
+    },
+    {
+        "merged": "D:\\qui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_choose_login_registration.xml",
+        "source": "D:\\qui\\app\\src\\main\\res\\layout\\activity_choose_login_registration.xml"
+    },
+    {
+        "merged": "D:\\qui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_welcome_page.xml",
+        "source": "D:\\qui\\app\\src\\main\\res\\layout\\activity_welcome_page.xml"
+    }
+]

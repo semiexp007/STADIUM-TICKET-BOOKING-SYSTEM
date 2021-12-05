@@ -1,0 +1,46 @@
+com/akmadheshiya/qui/WelcomePage.java
+ com.akmadheshiya.qui.WelcomePage
+ com.akmadheshiya.qui.WelcomePage$1
+com/akmadheshiya/qui/databinding/ActivityWelcomePageBinding.java
+ com.akmadheshiya.qui.databinding.ActivityWelcomePageBinding
+com/akmadheshiya/qui/ticket.java
+ com.akmadheshiya.qui.ticket
+com/akmadheshiya/qui/databinding/ActivityShowingBinding.java
+ com.akmadheshiya.qui.databinding.ActivityShowingBinding
+com/akmadheshiya/qui/databinding/ActivityRegistrationBinding.java
+ com.akmadheshiya.qui.databinding.ActivityRegistrationBinding
+com/akmadheshiya/qui/databinding/ActivityUidBinding.java
+ com.akmadheshiya.qui.databinding.ActivityUidBinding
+com/akmadheshiya/qui/ChooseLoginRegistrationActivity.java
+ com.akmadheshiya.qui.ChooseLoginRegistrationActivity
+ com.akmadheshiya.qui.ChooseLoginRegistrationActivity$1
+ com.akmadheshiya.qui.ChooseLoginRegistrationActivity$2
+com/akmadheshiya/qui/DataBindingTriggerClass.java
+ com.akmadheshiya.qui.DataBindingTriggerClass
+com/akmadheshiya/qui/adapterVip.java
+ com.akmadheshiya.qui.adapterVip
+ com.akmadheshiya.qui.adapterVip$1
+ com.akmadheshiya.qui.adapterVip$ViewHolder
+com/akmadheshiya/qui/BuildConfig.java
+ com.akmadheshiya.qui.BuildConfig
+com/akmadheshiya/qui/uid.java
+ com.akmadheshiya.qui.uid
+ com.akmadheshiya.qui.uid$1
+ com.akmadheshiya.qui.uid$1$1
+ com.akmadheshiya.qui.uid$2
+com/akmadheshiya/qui/databinding/ActivityChooseLoginRegistrationBinding.java
+ com.akmadheshiya.qui.databinding.ActivityChooseLoginRegistrationBinding
+com/akmadheshiya/qui/databinding/ShowticketsBinding.java
+ com.akmadheshiya.qui.databinding.ShowticketsBinding
+com/akmadheshiya/qui/showing.java
+ com.akmadheshiya.qui.showing
+ com.akmadheshiya.qui.showing$1
+ com.akmadheshiya.qui.showing$1$1
+ com.akmadheshiya.qui.showing$2
+ com.akmadheshiya.qui.showing$2$1
+ com.akmadheshiya.qui.showing$3
+ com.akmadheshiya.qui.showing$4
+com/akmadheshiya/qui/RegistrationActivity.java
+ com.akmadheshiya.qui.RegistrationActivity
+ com.akmadheshiya.qui.RegistrationActivity$1
+ com.akmadheshiya.qui.RegistrationActivity$1$1

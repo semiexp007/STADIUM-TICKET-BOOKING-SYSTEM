@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.karanchuri:PermissionManager:0.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eea55b5a90af69fecb9935f3dfd9c33f/jetified-PermissionManager-0.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eea55b5a90af69fecb9935f3dfd9c33f/jetified-PermissionManager-0.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eea55b5a90af69fecb9935f3dfd9c33f/jetified-PermissionManager-0.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9630b5ca412f3173b9308ebd8e6674e3/jetified-PermissionManager-0.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9630b5ca412f3173b9308ebd8e6674e3/jetified-PermissionManager-0.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9630b5ca412f3173b9308ebd8e6674e3/jetified-PermissionManager-0.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a76e31d96c458c5245817046340b2960/jetified-PermissionManager-0.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a76e31d96c458c5245817046340b2960/jetified-PermissionManager-0.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a76e31d96c458c5245817046340b2960/jetified-PermissionManager-0.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3dcb5841356729c843730cf47490fa7/jetified-PermissionManager-0.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3dcb5841356729c843730cf47490fa7/jetified-PermissionManager-0.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3dcb5841356729c843730cf47490fa7/jetified-PermissionManager-0.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e32b5b95c2879c0bc7e7028f3a265f6a/jetified-PermissionManager-0.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e32b5b95c2879c0bc7e7028f3a265f6a/jetified-PermissionManager-0.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e32b5b95c2879c0bc7e7028f3a265f6a/jetified-PermissionManager-0.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

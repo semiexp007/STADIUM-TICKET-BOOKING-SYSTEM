@@ -29,7 +29,7 @@ public class showing extends AppCompatActivity {
  RecyclerView mr1,mr2;
  Button mvip,mgen;
  adapterVip adapter1;
-
+ adapterGen adapter2;
  List<ticket>mlist1;
  List<ticket>mlist2;
  String Cat;
@@ -46,12 +46,12 @@ public class showing extends AppCompatActivity {
         mlist1=new ArrayList<>();
         mlist2=new ArrayList<>();
         adapter1=new adapterVip(showing.this,mlist1);
-       // adapter2=new adapterGen(showing.this,mlist2);
+        adapter2=new adapterGen(showing.this,mlist2);
 
         mr1.setLayoutManager(new LinearLayoutManager(showing.this));
         mr1.setAdapter(adapter1);
         mr2.setLayoutManager(new LinearLayoutManager(showing.this));
-       // mr2.setAdapter(adapter2);
+        mr2.setAdapter(adapter2);
 
         mvip.setOnClickListener(new View.OnClickListener() {
             @Override
